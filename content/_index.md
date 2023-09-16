@@ -248,30 +248,31 @@ sections:
     id: contact
     content:
       title: Contact
+      subtitle:
       email: kshankar@usm.my
       phone: +604 653 4632
       appointment_url: 'https://calendly.com'
       address:
-      street: National Advanced IPv6 Centre (NAv6), Level 6, School of Computer Sciences Building, Universiti Sains Malaysia
-      city: USM
-      region: Penang
-      postcode: '11800'
-      country: Malaysia
-      country_code: MY
+        street:  National Advanced IPv6 Centre (NAv6), Level 6, School of Computer Sciences Building, Universiti Sains Malaysia
+        city: USM
+        region: Penang
+        postcode: '11800'
+        country: Malaysia
+        country_code: MY
       directions: Take the lift to the 6th floor and turn right at the entrance to head over to NAv6.
       contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+      - icon: twitter
+        icon_pack: fab
+        name: DM Me
+        link: 'https://twitter.com/sh_nk_r'
+      - icon: skype
+        icon_pack: fab
+        name: Skype Me
+        link: 'skype:shankar.karuppayah?call'
+      - icon: telegram
+        icon_pack: fab
+        name: Telegram Me
+        link: 'https://telegram.me/@skusm'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
