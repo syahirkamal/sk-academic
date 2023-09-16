@@ -24,27 +24,67 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+        - title: "Area Head - Smart Protection in Infrastructures and Networks (SPIN)"
+          company: "Telecooperation Group, Technische Universität Darmstadt"
+          company_url: "https://www.tk.informatik.tu-darmstadt.de"
+          location: "Darmstadt, Germany"
+          date_start: "2021-01-01"
+          date_end: "2021-06-30"
+          description: |
+            Responsibilities include:
+            
+            * Managing (2) postdocs and (4) Ph.D. students within the area
+            * Contribute towards improving efficiency of the area as a whole
+        - title: "Senior Researcher / PostDoc"
+          company: "Telecooperation Group, Technische Universität Darmstadt"
+          company_url: "https://www.tk.informatik.tu-darmstadt.de"
+          location: "Darmstadt, Germany"
+          date_start: "2019-07-01"
+          date_end: "2021-06-30"
+          description: |
+            Responsibilities include:
+            
+            * Research in Malware Analysis and Botnet Monitoring
+            * Grant and project acquisitions
+            * Scientific coordination of both national and international research projects
+            * Teaching and supervision of B.Sc., M.Sc., and Ph.D. students
+        - title: "Senior Lecturer"
+          company: "National Advanced IPv6 Centre (NAv6), Universiti Sains Malaysia"
+          company_url: "https://www.nav6.usm.my"
+          location: "Penang, Malaysia"
+          date_start: "2016-06-01"
+          date_end: ""
+          description: |
+            Responsibilities include:
+            
+            * Research in Cyber Security and Internet of Things
+            * Grant and project acquisitions
+            * Teaching and supervision of M.Sc. and Ph.D. students
+            * Carry out industrial consultation projects
+            * Carry out national/international security trainings and workshops
+        - title: "Researcher"
+          company: "Telecooperation Group, Technische Universität Darmstadt"
+          company_url: "https://www.tk.informatik.tu-darmstadt.de"
+          location: "Darmstadt, Germany"
+          date_start: "2012-10-01"
+          date_end: "2016-05-31"
+          description: |
+            Responsibilities include:
+            
+            * Ph.D. thesis in Advanced Monitoring of P2P Botnets
+            * Teaching (B.Sc./M.Sc. courses)
+            * Supervising B.Sc. and M.Sc. theses
+        - title: "Researcher"
+          company: "COMSYS, RWTH Aachen"
+          company_url: "https://www.comsys.rwth-aachen.de/"
+          location: "Aachen, Germany"
+          date_start: "2010-06-01"
+          date_end: "2011-05-31"
+          description: |
+            Responsibilities include:
+          
+            * M.Sc. thesis in Securing Wireless Mesh Networks (WMNs)
+            * Conducting simulation and evaluation of WMNs
     design:
       columns: '2'
   - block: accomplishments
